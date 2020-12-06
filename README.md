@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/py1of9t0a7wxpgbp?svg=true)](https://ci.appveyor.com/project/Tatiana-Brener/task2-1-ci-setup-ver3)
